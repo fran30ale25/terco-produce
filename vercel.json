@@ -1,5 +1,6 @@
 {
-  "buildCommand": "npm install && npm run build",
-  "outputDirectory": ".next",
-  "framework": "nextjs"
+  "buildCommand": "yarn install && yarn build:app",
+  "outputDirectory": "apps/mercato/.next",
+  "framework": "nextjs",
+  "rootDirectory": "apps/mercato"
 }
