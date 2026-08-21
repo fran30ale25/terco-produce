@@ -1,6 +1,5 @@
 {
   "buildCommand": "yarn install && yarn build:app",
-  "outputDirectory": "apps/mercato/.next",
-  "framework": "nextjs",
-  "rootDirectory": "apps/mercato"
+  "outputDirectory": "apps/mercato/.mercato/next",
+  "framework": "nextjs"
 }
