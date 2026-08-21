@@ -1,5 +1,5 @@
 {
-  "buildCommand": "yarn build:app",
+  "buildCommand": "npm run build:app",
   "outputDirectory": "apps/mercato/.mercato/next",
   "framework": "nextjs"
 }
