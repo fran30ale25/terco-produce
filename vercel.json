@@ -1,6 +1,5 @@
 {
   "buildCommand": "yarn install && yarn build",
   "outputDirectory": ".next",
-  "framework": "nextjs",
-  "nodeVersion": "20.x"
+  "framework": "nextjs"
 }
