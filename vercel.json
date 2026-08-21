@@ -1,5 +1,5 @@
 {
-  "buildCommand": "cd apps/mercato && ln -sf src/app app && npx next build",
+  "buildCommand": "cd apps/mercato && cp -r src/app app && npx next build",
   "outputDirectory": "apps/mercato/.mercato/next",
   "framework": "nextjs"
 }
