@@ -1,5 +1,6 @@
 {
-  "buildCommand": "cd apps/mercato && rm -rf app && cp -r src/app app && npx next build",
-  "outputDirectory": "apps/mercato/.mercato/next",
-  "framework": "nextjs"
+  "buildCommand": "yarn install && yarn build",
+  "outputDirectory": ".next",
+  "framework": "nextjs",
+  "nodeVersion": "20.x"
 }
