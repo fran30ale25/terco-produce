@@ -1,5 +1,6 @@
 {
-  "buildCommand": "cd apps/mercato && npm run build",
+  "buildCommand": "cd apps/mercato && npx next build",
   "outputDirectory": "apps/mercato/.mercato/next",
   "framework": "nextjs"
 }
+
